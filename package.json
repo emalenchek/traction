@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/emalenchek/traction/issues"
   },
-  "homepage": "https://github.com/emalenchek/traction#readme"
+  "homepage": "https://github.com/emalenchek/traction#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.4"
+  }
 }
