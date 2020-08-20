@@ -24,7 +24,7 @@ mongoose
 
 // Use routes
 
-//
+app.use('/api/users', require('./routes/api/users'));
 //
 //
 //
